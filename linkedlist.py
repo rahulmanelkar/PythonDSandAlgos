@@ -1,4 +1,8 @@
 #linked list implementation in python
+from abc import ABC
+
+class AbstractNode(ABC):
+    pass
 
 class Node:
     def __init__(self, data):
