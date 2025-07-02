@@ -1,6 +1,7 @@
 #linked list implementation in python
 from abc import ABC
 import os
+from sys import maxsize
 
 class AbstractNode(ABC):
     pass
