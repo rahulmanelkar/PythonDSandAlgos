@@ -3,6 +3,7 @@ from abc import ABC
 import os
 from sys import maxsize
 import ast
+import collections
 
 class AbstractNode(ABC):
     pass
