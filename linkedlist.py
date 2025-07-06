@@ -49,6 +49,7 @@ class LinkedList:
             return False
         
     def print_list(self):
+        pass
         
 def main():
     ll = LinkedList()
