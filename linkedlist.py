@@ -48,6 +48,8 @@ class LinkedList:
                 index += 1
             return False
         
+    def print_list(self):
+        
 def main():
     ll = LinkedList()
     ll.append(3)
