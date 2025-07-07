@@ -8,7 +8,7 @@ from collections import deque, defaultdict
 class AbstractNode(ABC):
     pass
 
-class AbstractLinkedList:
+class AbstractLinkedList(ABC):
     pass
 
 class Node:
