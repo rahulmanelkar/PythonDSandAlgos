@@ -8,6 +8,9 @@ from collections import deque, defaultdict
 class AbstractNode(ABC):
     pass
 
+class AbstractLinkedList:
+    pass
+
 class Node:
     def __init__(self, data):
         self.data = data
