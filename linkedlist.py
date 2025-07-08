@@ -3,7 +3,7 @@ from abc import ABC
 import os
 from sys import maxsize
 import ast
-from collections import deque, defaultdict
+from collections import deque, defaultdict, namedtuple
 
 class AbstractNode(ABC):
     pass
