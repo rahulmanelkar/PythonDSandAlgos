@@ -62,6 +62,7 @@ def main():
     ll.append(42)
     ll.append(200)
     ll.append(202)
+    ll.append(204)
     print(ll.test_list)
     print(ll.find(500))
 
