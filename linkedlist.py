@@ -64,7 +64,7 @@ def main():
     ll.append(202)
     ll.append(29)
     print(ll.test_list)
-    print(ll.find(122))
+    print(ll.find(1122))
 
 
 if __name__ == '__main__':
