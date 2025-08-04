@@ -26,6 +26,7 @@ class TreeNode:
             for child in self.children:
                 child.print_tree()
 
+
 def build_product_tree():
     root = TreeNode("Electronics")
 
