@@ -1,7 +1,7 @@
 class Graph:
     def __init__(self, edges):
         self.edges = edges
-        #transform list into a dict
+        #transform the list into a dict
         self.graphdict = {}
         for start,end in self.edges:
             if start in self.graphdict:
