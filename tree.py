@@ -50,5 +50,6 @@ def build_product_tree():
     return root
 
 if __name__ == '__main__':
+    "it me tree"
     root = build_product_tree()
     root.print_tree()
