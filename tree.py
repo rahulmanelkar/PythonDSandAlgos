@@ -43,7 +43,7 @@ def build_product_tree():
     tv = TreeNode("TV")
     tv.add_child(TreeNode("Samsung"))
     tv.add_child(TreeNode("LG"))
-    tv.add_child(TreeNode("Gooby"))
+    tv.add_child(TreeNode("Gooby pls"))
 
     root.add_child(laptop)
     root.add_child(cellphone)
