@@ -1,7 +1,7 @@
 def main():
     print("Hello from pythondsandalgos!")
     print("Which algorithm would you like to see?")
-    print("Choose hxcafffgghhhib hbfaffvfsfh")
+    print("Choose hxcafffgghhhib hbfafafdfvfsfh")
 
 
 if __name__ == "__main__":
